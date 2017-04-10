@@ -26,6 +26,7 @@
 		576F083B1E9B2BA10067D018 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		576F083E1E9B2BA10067D018 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		576F08401E9B2BA10067D018 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		576F08471E9B2BE20067D018 /* VXVXHomePageServiceProtocol.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = VXVXHomePageServiceProtocol.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +59,7 @@
 		576F082E1E9B2BA10067D018 /* VXVXHomePageServiceProtocol */ = {
 			isa = PBXGroup;
 			children = (
+				576F08461E9B2BBB0067D018 /* VXVXHomePageServiceProtocol */,
 				576F08321E9B2BA10067D018 /* AppDelegate.h */,
 				576F08331E9B2BA10067D018 /* AppDelegate.m */,
 				576F08351E9B2BA10067D018 /* ViewController.h */,
@@ -77,6 +79,14 @@
 				576F08301E9B2BA10067D018 /* main.m */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		576F08461E9B2BBB0067D018 /* VXVXHomePageServiceProtocol */ = {
+			isa = PBXGroup;
+			children = (
+				576F08471E9B2BE20067D018 /* VXVXHomePageServiceProtocol.h */,
+			);
+			path = VXVXHomePageServiceProtocol;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
