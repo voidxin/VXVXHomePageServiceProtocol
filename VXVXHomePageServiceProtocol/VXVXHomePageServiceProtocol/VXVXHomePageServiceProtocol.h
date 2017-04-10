@@ -9,6 +9,6 @@
 #import <UIKit/UIKit.h>
 @protocol VXVXHomePageServiceProtocol <NSObject>
 
-- (UIViewController *)initWithHomepageViewControllerUserMessage:(id)userModel;
+- (UIViewController *)homepageViewControllerUserMessage:(id)userModel;
 
 @end
