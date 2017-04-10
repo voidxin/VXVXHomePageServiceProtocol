@@ -9,6 +9,6 @@
 
 @protocol VXVXHomePageServiceProtocol <NSObject>
 
-- (UIViewController *)homepageViewControllerWithUserMessage:(id)userModel;
+- (UIViewController *)initWithHomepageViewControllerUserMessage:(id)userModel;
 
 @end
