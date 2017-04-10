@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "VXVXHomePageServiceProtocol"
-  s.version      = "0.0.3"
+  s.version      = "0.0.4"
   s.summary      = "this is a protocol of homepage"
 
   # This description is used to generate tags and improve search results.
